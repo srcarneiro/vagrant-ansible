@@ -1,0 +1,6 @@
+.vagrant
+misc/*
+destroy.bat
+halt.bat
+up.bat
+ubuntu-xenial-16.04-cloudimg-console.log
